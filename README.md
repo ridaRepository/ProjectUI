@@ -63,7 +63,6 @@ I created one local hub and node in my local by using terminal
 
 About rerun.txt file : Whenever the test case failed , wrote the test case info then Failed cukes runner run again
 
-# Sovos Challenge #
 
 ### Challenge 1 - UI ###
 
@@ -89,15 +88,4 @@ You need to test a GET notifications API that retrieves notifications and check 
 
 Describe test scenarios for the given requirements using ECP, after that, choose an automation framework and implement the described test scenarios, you can use any language or framework (**only open-source frameworks**). 
 
-
-
-
-## Make a fork of this repository and submit a pull request with your solutions! Good luck! ##
-
-
-**The use of automation design patters will be a differential.**
-
-**Please, include in the README all the information needed to run the project!**
-
-**Don't forget to add all scenarios that you described using ECP in a specific session of your README, this has a lot of weight in the evaluation!!**
 
